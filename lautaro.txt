@@ -1,2 +1,3 @@
 vamos haciendo pruebas con el 2B.
 una modificacion mas estetica.
+que bueno que nadie modifico asi, asi no hay ningun conflicto.
